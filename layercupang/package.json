@@ -1,7 +1,7 @@
 {
   "name": "layercupang",
-  "version": "2.0.0",
-  "description": "tea testnet project x layer dev",
+  "version": "2.2.1",
+  "description": "tea testnet project x layer cupang",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
